@@ -48,13 +48,13 @@
         {
             "recipe_name": "Margherita Pizza",
             "ingredients": "pizza dough, tomatoes, mozzarella cheese, fresh basil leaves, olive oil, garlic",
-            "cooking_method": "Roll out the pizza dough, add tomato sauce, mozzarella cheese, and fresh basil leaves. Bake the pizza in the oven for 10-12 minutes at 475°F.",
+            "cooking_method": "Brown the veal shanks, then saute onion, garlic, carrots, and celery. Add white wine, beef broth, and canned tomatoes, then simmer the veal shanks in the sauce until they are tender.",
             "ratings": 4.2
         },
         {
             "recipe_name": "Spaghetti Carbonara",
             "ingredients": "spaghetti, bacon, Parmesan cheese, eggs, garlic, black pepper",
-            "cooking_method": "Cook spaghetti according to package instructions, fry bacon until crispy, mix beaten eggs with Parmesan cheese and garlic, then add to the spaghetti and bacon. Mix well and serve with black pepper.",
+            "cooking_method": "Cook rigatoni pasta, then saute diced eggplant and garlic in olive oil. Add canned tomatoes and simmer for 10 minutes. Toss pasta with the sauce and top with crumbled ricotta salata cheese.",
             "ratings": 4.5
         }
     ]
@@ -106,13 +106,13 @@
                 "recipe_name": "Tiramisu",
                 "ingredients": "pizza dough, tomatoes, mozzarella cheese, fresh basil leaves, olive oil, garlic",
                 "cooking_method": "Roll out the pizza dough, add tomato sauce, mozzarella cheese, and fresh basil leaves. Bake the pizza in the oven for 10-12 minutes at 475°F.",
-                "ratings": 4.2
+                "ratings": 2.2
             },
             {
                 "recipe_name": "Osso Buco",
                 "ingredients": "spaghetti, bacon, Parmesan cheese, eggs, garlic, black pepper",
                 "cooking_method": "Cook spaghetti according to package instructions, fry bacon until crispy, mix beaten eggs with Parmesan cheese and garlic, then add to the spaghetti and bacon. Mix well and serve with black pepper.",
-                "ratings": 4.5
+                "ratings": 3.5
             }
         ]
     },
