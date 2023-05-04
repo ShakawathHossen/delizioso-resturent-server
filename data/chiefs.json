@@ -37,7 +37,27 @@
     "experience": 30,    
     "recipes": 120,    
     "likes": 8000,  
-    "bio":"Giovanni is a celebrated Italian chef, restaurateur, and author. He is the owner of Osteria Francescana, a three-Michelin-star restaurant in Modena, Italy. The restaurant has been named the best restaurant in the world twice by the World's 50 Best Restaurants. Massimo is known for his creative and modern approach to Italian cuisine. He often incorporates traditional Italian ingredients into new and innovative dishes, resulting in a unique culinary experience for his patrons."
+    "bio":"Giovanni is a celebrated Italian chef, restaurateur, and author. He is the owner of Osteria Francescana, a three-Michelin-star restaurant in Modena, Italy. The restaurant has been named the best restaurant in the world twice by the World's 50 Best Restaurants. Massimo is known for his creative and modern approach to Italian cuisine. He often incorporates traditional Italian ingredients into new and innovative dishes, resulting in a unique culinary experience for his patrons.",
+    "recipe_details":[
+        {
+            "recipe_name": "Pesto Pasta",
+            "ingredients":"pasta,basil leaves,pine nuts,garlic, Parmesan cheese, olive oil",
+            "cooking_method": "Boil the pasta, blend the basil leaves, pine nuts, garlic, Parmesan cheese and olive oil to make pesto, then toss the pasta in the pesto sauce.",
+            "ratings": 3.8
+        },
+        {
+            "recipe_name": "Margherita Pizza",
+            "ingredients": "pizza dough, tomatoes, mozzarella cheese, fresh basil leaves, olive oil, garlic",
+            "cooking_method": "Roll out the pizza dough, add tomato sauce, mozzarella cheese, and fresh basil leaves. Bake the pizza in the oven for 10-12 minutes at 475°F.",
+            "ratings": 4.2
+        },
+        {
+            "recipe_name": "Spaghetti Carbonara",
+            "ingredients": "spaghetti, bacon, Parmesan cheese, eggs, garlic, black pepper",
+            "cooking_method": "Cook spaghetti according to package instructions, fry bacon until crispy, mix beaten eggs with Parmesan cheese and garlic, then add to the spaghetti and bacon. Mix well and serve with black pepper.",
+            "ratings": 4.5
+        }
+    ]
 },
 {    
     "id": 3,    
@@ -46,7 +66,27 @@
      "experience": 40,    
      "recipes": 200,   
       "likes": 12000,
-      "bio":"Marco  is an Italian-American chef, restaurateur, and television personality. Born in Istria, Italy, Lidia moved to the United States in the 1950s and began her career in the restaurant industry. She is the owner of several successful Italian restaurants and has authored numerous cookbooks. Lidia is also a host and producer of several popular cooking shows, including 'Lidia's Italy' and 'Lidia's Kitchen,' which showcase her love for traditional Italian cuisine."  
+      "bio":"Marco  is an Italian-American chef, restaurateur, and television personality. Born in Istria, Italy, Lidia moved to the United States in the 1950s and began her career in the restaurant industry. She is the owner of several successful Italian restaurants and has authored numerous cookbooks. Lidia is also a host and producer of several popular cooking shows, including 'Lidia's Italy' and 'Lidia's Kitchen,' which showcase her love for traditional Italian cuisine."  ,
+      "recipe_details":[
+        {
+            "recipe_name": "Pesto Pasta",
+            "ingredients":"pasta,basil leaves,pine nuts,garlic, Parmesan cheese, olive oil",
+            "cooking_method": "Boil the pasta, blend the basil leaves, pine nuts, garlic, Parmesan cheese and olive oil to make pesto, then toss the pasta in the pesto sauce.",
+            "ratings": 3.8
+        },
+        {
+            "recipe_name": "Margherita Pizza",
+            "ingredients": "pizza dough, tomatoes, mozzarella cheese, fresh basil leaves, olive oil, garlic",
+            "cooking_method": "Roll out the pizza dough, add tomato sauce, mozzarella cheese, and fresh basil leaves. Bake the pizza in the oven for 10-12 minutes at 475°F.",
+            "ratings": 4.2
+        },
+        {
+            "recipe_name": "Spaghetti Carbonara",
+            "ingredients": "spaghetti, bacon, Parmesan cheese, eggs, garlic, black pepper",
+            "cooking_method": "Cook spaghetti according to package instructions, fry bacon until crispy, mix beaten eggs with Parmesan cheese and garlic, then add to the spaghetti and bacon. Mix well and serve with black pepper.",
+            "ratings": 4.5
+        }
+    ]
 },  
 {    "id": 4, 
      "image": "https://i.ibb.co/JKPLt6D/cheif1.jpg", 
@@ -54,7 +94,27 @@
       "experience": 45,    
         "recipes": 150, 
         "likes": 10000 ,
-        "bio":"Chiara  is an Italian chef and television personality who has worked in some of the top restaurants in Italy and France. He is the owner of Ristorante Cracco in Milan, which has earned two Michelin stars under his leadership. Carlo is known for his creative approach to Italian cuisine, incorporating modern techniques and international flavors into traditional dishes. He has also been a judge on the Italian version of the popular cooking show MasterChef. "
+        "bio":"Chiara  is an Italian chef and television personality who has worked in some of the top restaurants in Italy and France. He is the owner of Ristorante Cracco in Milan, which has earned two Michelin stars under his leadership. Carlo is known for his creative approach to Italian cuisine, incorporating modern techniques and international flavors into traditional dishes. He has also been a judge on the Italian version of the popular cooking show MasterChef. ",
+        "recipe_details":[
+            {
+                "recipe_name": "Pesto Pasta",
+                "ingredients":"pasta,basil leaves,pine nuts,garlic, Parmesan cheese, olive oil",
+                "cooking_method": "Boil the pasta, blend the basil leaves, pine nuts, garlic, Parmesan cheese and olive oil to make pesto, then toss the pasta in the pesto sauce.",
+                "ratings": 3.8
+            },
+            {
+                "recipe_name": "Tiramisu",
+                "ingredients": "pizza dough, tomatoes, mozzarella cheese, fresh basil leaves, olive oil, garlic",
+                "cooking_method": "Roll out the pizza dough, add tomato sauce, mozzarella cheese, and fresh basil leaves. Bake the pizza in the oven for 10-12 minutes at 475°F.",
+                "ratings": 4.2
+            },
+            {
+                "recipe_name": "Osso Buco",
+                "ingredients": "spaghetti, bacon, Parmesan cheese, eggs, garlic, black pepper",
+                "cooking_method": "Cook spaghetti according to package instructions, fry bacon until crispy, mix beaten eggs with Parmesan cheese and garlic, then add to the spaghetti and bacon. Mix well and serve with black pepper.",
+                "ratings": 4.5
+            }
+        ]
     },
                    
     {    
@@ -64,7 +124,27 @@
      "experience": 50,   
         "recipes": 180,  
          "likes": 9000 ,
-         "bio":"Martinai is an innovative Italian chef known for her creative approach to traditional Italian cuisine. She opened her own restaurant, L'Argine a Vencò, in Friuli-Venezia Giulia, Italy, in 2010, which has become a popular destination for food enthusiasts. Antonia is dedicated to using local and seasonal ingredients, which she skillfully combines with techniques and flavors from around the world. Her commitment to preserving traditional Italian cuisine has earned her numerous accolades and awards, including a Michelin star in 2019. Antonia is also an advocate for sustainable and responsible agriculture and frequently works with local farmers and producers."
+         "bio":"Martinai is an innovative Italian chef known for her creative approach to traditional Italian cuisine. She opened her own restaurant, L'Argine a Vencò, in Friuli-Venezia Giulia, Italy, in 2010, which has become a popular destination for food enthusiasts. Antonia is dedicated to using local and seasonal ingredients, which she skillfully combines with techniques and flavors from around the world. Her commitment to preserving traditional Italian cuisine has earned her numerous accolades and awards, including a Michelin star in 2019. Antonia is also an advocate for sustainable and responsible agriculture and frequently works with local farmers and producers.",
+         "recipe_details":[
+            {
+                "recipe_name": "Pesto Pasta",
+                "ingredients":"pasta,basil leaves,pine nuts,garlic, Parmesan cheese, olive oil",
+                "cooking_method": "Boil the pasta, blend the basil leaves, pine nuts, garlic, Parmesan cheese and olive oil to make pesto, then toss the pasta in the pesto sauce.",
+                "ratings": 3.8
+            },
+            {
+                "recipe_name": "Tiramisu",
+                "ingredients": "pizza dough, tomatoes, mozzarella cheese, fresh basil leaves, olive oil, garlic",
+                "cooking_method": "Roll out the pizza dough, add tomato sauce, mozzarella cheese, and fresh basil leaves. Bake the pizza in the oven for 10-12 minutes at 475°F.",
+                "ratings": 4.2
+            },
+            {
+                "recipe_name": "Spaghetti Carbonara",
+                "ingredients": "spaghetti, bacon, Parmesan cheese, eggs, garlic, black pepper",
+                "cooking_method": "Cook spaghetti according to package instructions, fry bacon until crispy, mix beaten eggs with Parmesan cheese and garlic, then add to the spaghetti and bacon. Mix well and serve with black pepper.",
+                "ratings": 4.5
+            }
+        ]
          },
  {    "id": 6,  
       "image": "https://i.ibb.co/wzVvYN0/cheif4.jpg", 
@@ -72,7 +152,27 @@
       "experience": 20, 
        "recipes": 80,  
        "likes": 6000  ,
-       "bio":"Luca an Italian chef who is often referred to as the father of modern Italian cuisine. He was the first Italian chef to be awarded three Michelin stars and is credited with introducing innovative techniques and flavors to Italian cuisine. Gualtiero's legacy continues to influence chefs around the world, and his contributions to the culinary world have been recognized with numerous awards and honors."
+       "bio":"Luca an Italian chef who is often referred to as the father of modern Italian cuisine. He was the first Italian chef to be awarded three Michelin stars and is credited with introducing innovative techniques and flavors to Italian cuisine. Gualtiero's legacy continues to influence chefs around the world, and his contributions to the culinary world have been recognized with numerous awards and honors.",
+       "recipe_details":[
+        {
+            "recipe_name": "Risotto",
+            "ingredients":"pasta,basil leaves,pine nuts,garlic, Parmesan cheese, olive oil",
+            "cooking_method": "Boil the pasta, blend the basil leaves, pine nuts, garlic, Parmesan cheese and olive oil to make pesto, then toss the pasta in the pesto sauce.",
+            "ratings": 3.8
+        },
+        {
+            "recipe_name": "Margherita Pizza",
+            "ingredients": "pizza dough, tomatoes, mozzarella cheese, fresh basil leaves, olive oil, garlic",
+            "cooking_method": "Roll out the pizza dough, add tomato sauce, mozzarella cheese, and fresh basil leaves. Bake the pizza in the oven for 10-12 minutes at 475°F.",
+            "ratings": 4.2
+        },
+        {
+            "recipe_name": "Spaghetti Carbonara",
+            "ingredients": "spaghetti, bacon, Parmesan cheese, eggs, garlic, black pepper",
+            "cooking_method": "Cook spaghetti according to package instructions, fry bacon until crispy, mix beaten eggs with Parmesan cheese and garlic, then add to the spaghetti and bacon. Mix well and serve with black pepper.",
+            "ratings": 4.5
+        }
+    ]
     }
                                         
 ]
